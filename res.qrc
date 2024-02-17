@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="images">
+    <file>book-41612.png</file>
+    <file>book-41617.png</file>
+    <file>pencil.png</file>
+    <file>tree.png</file>
+    <file>klipartz.com (1).png</file>
+    <file>C:/Users/DELL/Downloads/pngegg.png</file>
+    <file>C:/Users/DELL/Downloads/klipartz.com.png</file>
+    <file>C:/Users/DELL/Downloads/png_peacock_3764.png</file>
+    <file>class.gif</file>
+    <file>peacock.png</file>
+    <file>logo1.png</file>
+    <file>logo2.png</file>
+    <file>images2.jpg</file>
+    <file>image1.jpg</file>
+  </qresource>
+  <qresource/>
+</RCC>
